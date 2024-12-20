@@ -11,7 +11,7 @@ Now when someone types "meow" in chat, you'll see the bear wave instead of the k
 
 Hopefully BetterChat team will integrate [my changes](https://github.com/codecat/tm-better-chat/pull/80) so everybody can have bear.
 
-![bear waving gif, four frames](.github/bear-emote.png)
+![bear waving gif, four frames](.github/BearFrames.png)
 
 # Better Chat
 Complete replacement of the Trackmania in-game chat for [Openplanet](https://openplanet.dev/).
